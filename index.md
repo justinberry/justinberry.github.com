@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Software, ramblings and 한국어
-tagline: and probably too much swearing
+title: Software and 한국어 공부
+tagline: 소프트웨어 재미있다!
 ---
 {% include JB/setup %}
 
